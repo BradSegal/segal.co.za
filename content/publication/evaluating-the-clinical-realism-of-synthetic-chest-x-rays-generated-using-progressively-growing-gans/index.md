@@ -5,9 +5,9 @@ publication_types:
   - "2"
 authors:
   - admin
-  - DavidM.Rubin
-  - GraceRubin
-  - AdamPantanowitz
+  - David M. Rubin
+  - Grace Rubin
+  - Adam Pantanowitz
 author_notes: []
 doi: https://doi.org/10.1007/s42979-021-00720-7
 publication: Springer Nature Computer Science
@@ -42,6 +42,13 @@ abstract: Chest X-rays are a vital diagnostic tool in the workup of many
   model weights, and an archive of labelled generates.
 draft: false
 featured: true
+tags:
+  - Medicalimagegeneration
+  - Generativeadversarialnetwork
+  - X-rays
+  - Deeplearning
+  - Medicine
+  - Radiology
 categories: []
 image:
   filename: segal2021_article_evaluatingtheclinicalrealismof.jpg
