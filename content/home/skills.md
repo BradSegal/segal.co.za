@@ -15,19 +15,43 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+
+
+[[feature]]
+  icon = "stethoscope"
+  icon_pack = "custom"
+  name = "Clinical Medicine"
+  description = ""
+
+[[feature]]
+  icon = "python-colour"
+  icon_pack = "custom"
+  name = "Python"
+  description = ""
+  
+[[feature]]
+  icon = "r"
+  icon_pack = "custom"
+  name = "R"
+  description = ""
+  
+[[feature]]
+  icon = "chart"
+  icon_pack = "custom"
+  name = "Data Analysis"
+  description = ""  
+  
+[[feature]]
+  icon = "analysis"
+  icon_pack = "custom"
+  name = "Data Visualisation"
+  description = ""  
+  
+[[feature]]
+  icon = "pytorch-icon"
+  icon_pack = "custom"
+  name = "Pytorch"
+  description = ""  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
