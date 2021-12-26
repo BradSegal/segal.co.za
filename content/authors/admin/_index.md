@@ -1,6 +1,6 @@
 ---
 title: Bradley Max Segal
-role: Medical Doctor | Engineer
+role: Medical Doctor | Data Scientist 
 bio: ""
 interests:
   - Clinical Medicine
