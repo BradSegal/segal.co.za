@@ -1,8 +1,10 @@
 ---
 title: "Synthetic Medical Data: GANs for overcoming healthcare data challenges"
 abstract: A discussion of the applications of generative adversarial networks
-  for data augmentation for machine learning in healthcare.
-location: SisonkeBiotik
+  for data augmentation for machine learning in healthcare. Presented to an open
+  community of researchers working at the intersection of machine learning and
+  healthcare in Africa.
+location: SisonkeBiotik Community
 date: 2021-09-02T16:00:42.740Z
 date_end: 2021-09-02T17:00:00.000Z
 all_day: false
