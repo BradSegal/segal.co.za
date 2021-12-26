@@ -16,42 +16,56 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 
-
-[[feature]]
-  icon = "stethoscope"
-  icon_pack = "custom"
-  name = "Clinical Medicine"
-  description = ""
-
-[[feature]]
-  icon = "python-colour"
-  icon_pack = "custom"
-  name = "Python"
-  description = ""
+feature:
+- description: 90%
+  icon: r-project
+  icon_pack: fab
+  name: R
+- description: 100%
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
+- description: 10%
+  icon: camera-retro
+  icon_pack: fas
+  name: Photography
   
-[[feature]]
-  icon = "r"
-  icon_pack = "custom"
-  name = "R"
-  description = ""
   
-[[feature]]
-  icon = "chart"
-  icon_pack = "custom"
-  name = "Data Analysis"
-  description = ""  
+feature:
+  description: 
+  icon: stethoscope
+  icon_pack: custom
+  name: Clinical Medicine
   
-[[feature]]
-  icon = "analysis"
-  icon_pack = "custom"
-  name = "Data Visualisation"
-  description = ""  
+feature:
+  description: 
+  icon = python-colour
+  icon_pack = custom
+  name = Python
   
-[[feature]]
-  icon = "pytorch-icon"
-  icon_pack = "custom"
-  name = "Pytorch"
-  description = ""  
+feature:
+  description: 
+  icon = r
+  icon_pack = custom
+  name = R
+  
+feature:
+  description: 
+  icon = chart
+  icon_pack = custom
+  name = Data Analysis
+  
+feature:
+  description: 
+  icon = analysis
+  icon_pack = custom
+  name = Data Visualisation
+  
+feature:
+  description: 
+  icon = pytorch-icon
+  icon_pack = custom
+  name = Pytorch
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
