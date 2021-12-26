@@ -16,7 +16,7 @@ social:
     link: https://twitter.com/BradMaxSegal
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=tSjS1E4AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/BradSegal
