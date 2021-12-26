@@ -9,8 +9,8 @@ location: SisonkeBiotik Community
 date: 2021-09-02T16:00:00.000Z
 date_end: 2021-09-02T17:00:00.000Z
 all_day: false
-event: SisonkeBiotik Monthly Meetup
-event_url: https://www.youtube.com/watch?v=KV7hS-FzMeQ]
+event: "SisonkeBiotik Monthly Meetup "
+event_url: https://www.youtube.com/watch?v=KV7hS-FzMeQ
 featured: false
 authors:
   - admin
@@ -22,8 +22,12 @@ address:
   region: CA
   postcode: "94305"
   country: United States
-links: []
-publishDate: 2017-01-01T00:00:00Z
+links:
+  - icon_pack: fab
+    icon: youtube
+    url: https://www.youtube.com/watch?v=KV7hS-FzMeQ
+    name: ""
+publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 projects: []
 image:
