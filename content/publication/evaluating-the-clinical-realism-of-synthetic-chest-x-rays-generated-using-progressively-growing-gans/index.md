@@ -43,10 +43,10 @@ abstract: Chest X-rays are a vital diagnostic tool in the workup of many
 draft: false
 featured: true
 tags:
-  - Medicalimagegeneration
-  - Generativeadversarialnetwork
+  - Medical image generation
+  - Generative adversarial network
   - X-rays
-  - Deeplearning
+  - Deep learning
   - Medicine
   - Radiology
 categories: []
