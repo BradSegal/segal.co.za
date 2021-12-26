@@ -42,13 +42,13 @@ education:
   courses:
     - course: Master of Science in Engineering
       institution: University of the Witwatersrand
-      year: ""
+      year: 2020 - 2021
     - course: Bachelor of Medicine & Bachelor of Surgery (MBBCh)
       institution: University of the Witwatersrand
-      year: ""
+      year: 2016 - 2021
     - course: National Senior Certificate
       institution: King David Victory Park
-      year: ""
+      year: 2011 - 2015
 email: ""
 superuser: true
 highlight_name: true
