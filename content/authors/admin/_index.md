@@ -1,8 +1,7 @@
 ---
 title: Bradley Max Segal
 role: Medical Doctor | Engineer
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Clinical Medicine
   - Artificial Intelligence
